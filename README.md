@@ -13,7 +13,7 @@ This time series has power consumption for a Dutch research facility for the yea
 J. J. Van Wijk and E. R. Van Selow, "Cluster and calendar based visualization of time series data," Proceedings 1999 IEEE Symposium on Information Visualization (InfoVis'99), 1999, pp. 4-9, doi: 10.1109/INFVIS.1999.801851.
 
 #### ann_gun
-The anomalous period 2 is annotated by Keogh's work [https://www.cs.ucr.edu/~eamonn/discords/ICDM05_discords.pdf] as the left picture shows. Other anomalous period subsequences which are proposed by Boniol's [Boniol, Paul, et al. "Unsupervised and scalable subsequence anomaly detection in large data series." The VLDB Journal (2021): 1-23.] can be seen in the right picture.
+The anomalous period 2 is annotated by Keogh's work [https://www.cs.ucr.edu/~eamonn/discords/ICDM05_discords.pdf] as the left picture shows. Other anomalous period subsequences which are proposed in Boniol's [Boniol, Paul, et al. "Unsupervised and scalable subsequence anomaly detection in large data series." The VLDB Journal (2021): 1-23.] can be seen in the right picture.
 
 ![image](https://user-images.githubusercontent.com/90513919/132955327-475b68cb-be6f-4400-bc35-cb75d1be208c.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![image](https://user-images.githubusercontent.com/90513919/132955329-80274222-f27e-4dc9-be6f-34683031c44e.png)
@@ -21,7 +21,9 @@ The anomalous period 2 is annotated by Keogh's work [https://www.cs.ucr.edu/~eam
 
 
 ### Patient respiration
-This dataset use
+We use the subset of nprs44, beginning at 15500 and ending at 22000. There are one apparent anomaly and one subtle anomaly in this dataset as shown in the picture(cited from https://www.cs.ucr.edu/~eamonn/discords/ICDM05_discords.pdf) 
 
 ![image](https://user-images.githubusercontent.com/90513919/132955446-d1d83ae5-c456-4897-9b6e-c9cc3122382d.png)
+
+
 
