@@ -27,4 +27,7 @@ We use the subset of nprs44, beginning at 15500 and ending at 22000. There are o
 
 
 ### TEK
-Inspired by Jones, Michael's work[Jones, Michael, et al. "Exemplar learning for extremely efficient anomaly detection in real-valued time series." Data mining and knowledge discovery 30.6 (2016): 1427-1454.], we also concatenate dataset TEK14,TEK16 and TEK17 as TEK of length 15000. There are 3 anomalous periods in this dataset. In Keogh's work [https://www.cs.ucr.edu/~eamonn/discords/ICDM05_discords.pdf], a total of 4 anomalies are marked . But in TEK142 anomalous snippets  in period
+Inspired by Jones, Michael's work[Jones, Michael, et al. "Exemplar learning for extremely efficient anomaly detection in real-valued time series." Data mining and knowledge discovery 30.6 (2016): 1427-1454.], we also concatenate dataset TEK14,TEK16 and TEK17 as TEK of length 15000. In Keogh's work [https://www.cs.ucr.edu/~eamonn/discords/ICDM05_discords.pdf], a total of 4 anomalies are marked . But in TEK14 2 anomalous snippets belongs to the same period as shown in the picture below. Since we detect anomalous subsequences by the unit of period, we label 3 anomalies in this dataset. 
+
+![image](https://user-images.githubusercontent.com/90513919/132956852-64b15a89-b553-44f6-bfd3-fadb8c243873.png)
+
