@@ -9,7 +9,7 @@ The period of some datasets vary slightly but it has no effect on the result of 
 The parameter of some datasets should be specially explained.
 
 #### dutch\_pwrdemand
-This time series has power consumption for a Dutch research facility for the year 1997 (one power measurement every 15 minutes for 365 days). It shows a characteristic weekly pattern that consists of 5 power usage peaks corresponding to the 5 weekdays followed by 2 days of low power usage on the weekends. Anomalous weeks occur when one or more of the normal usage peaks during a week do not occur due to holidays. We can easily figure out that there are 672 points in each week(672=7x24x60/15) so the period length is 672.  It is Wednesday on January 1st so we let each week period start from Wednesday. There are total of 6 anomalous weeks. Some papers use this dataset with less anomalies because they treat continous anomalous weeks as 1 anomaly.  The detailed information about this dataset can be seen in the paper below.  
+This time series has power consumption for a Dutch research facility for the year 1997 (one power measurement every 15 minutes for 365 days). It shows a characteristic weekly pattern that consists of 5 power usage peaks corresponding to the 5 weekdays followed by 2 days of low power usage on the weekends. Anomalous weeks occur when one or more of the normal usage peaks during a week do not occur due to holidays. We can easily figure out that there are 672 points in each week(672=7x24x60/15) so the period length is 672.  It is Wednesday on January 1st so we let each week period start from Wednesday. There are a total of 6 anomalous weeks. Some papers use this dataset with less anomalies because they treat continous anomalous weeks as 1 anomaly.  The detailed information about this dataset can be seen in the paper below.  
 J. J. Van Wijk and E. R. Van Selow, "Cluster and calendar based visualization of time series data," Proceedings 1999 IEEE Symposium on Information Visualization (InfoVis'99), 1999, pp. 4-9, doi: 10.1109/INFVIS.1999.801851.
 
 #### ann_gun
@@ -26,4 +26,5 @@ We use the subset of nprs44, beginning at 15500 and ending at 22000. There are o
 ![image](https://user-images.githubusercontent.com/90513919/132955446-d1d83ae5-c456-4897-9b6e-c9cc3122382d.png)
 
 
-
+### TEK
+Inspired by Jones, Michael's work[Jones, Michael, et al. "Exemplar learning for extremely efficient anomaly detection in real-valued time series." Data mining and knowledge discovery 30.6 (2016): 1427-1454.], we also concatenate dataset TEK14,TEK16 and TEK17 as TEK of length 15000. There are 3 anomalous periods in this dataset. In Keogh's work [https://www.cs.ucr.edu/~eamonn/discords/ICDM05_discords.pdf], a total of 4 anomalies are marked . But in TEK142 anomalous snippets  in period
