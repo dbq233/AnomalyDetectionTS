@@ -13,5 +13,11 @@ This time series has power consumption for a Dutch research facility for the yea
 J. J. Van Wijk and E. R. Van Selow, "Cluster and calendar based visualization of time series data," Proceedings 1999 IEEE Symposium on Information Visualization (InfoVis'99), 1999, pp. 4-9, doi: 10.1109/INFVIS.1999.801851.
 
 #### ann_gun
+The anomalous period 5 can be seen in the figure
+![image](https://user-images.githubusercontent.com/90513919/132954984-d693fbc1-b557-4218-8403-51c6df4a1f3a.png)
 
-![image](https://user-images.githubusercontent.com/90513919/132954845-e54278bd-99e2-4a7b-949d-802ea107e43b.png)
+
+### Patient respiration
+This dataset use
+![image](https://user-images.githubusercontent.com/90513919/132955164-f098fa13-aaa3-491a-b00d-533d542f82d2.png)
+
