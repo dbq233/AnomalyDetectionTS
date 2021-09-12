@@ -15,7 +15,7 @@ J. J. Van Wijk and E. R. Van Selow, "Cluster and calendar based visualization of
 ### ann_gun
 The anomalous period 2 is annotated by Keogh's work [https://www.cs.ucr.edu/~eamonn/discords/ICDM05_discords.pdf] as the left picture shows. Other anomalous period subsequences which are proposed in Boniol's [Boniol, Paul, et al. "Unsupervised and scalable subsequence anomaly detection in large data series." The VLDB Journal (2021): 1-23.] can be seen in the right picture.
 
-![image](https://user-images.githubusercontent.com/90513919/132955327-475b68cb-be6f-4400-bc35-cb75d1be208c.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/90513919/132955327-475b68cb-be6f-4400-bc35-cb75d1be208c.png)&nbsp;&nbsp;
 ![image](https://user-images.githubusercontent.com/90513919/132955329-80274222-f27e-4dc9-be6f-34683031c44e.png)
 
 
