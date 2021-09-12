@@ -32,5 +32,5 @@ Inspired by Jones, Michael's work[Jones, Michael, et al. "Exemplar learning for 
 ![image](https://user-images.githubusercontent.com/90513919/132956852-64b15a89-b553-44f6-bfd3-fadb8c243873.png)
 
 ### MBA803,MBA805,MBA806,MBA820,MBA14046
-We use the subset of first 100K points from the full datasets of each like Boniol does in the paper[Boniol, P., Linardi, M., Roncallo, F., Palpanas, T., Meftah, M., & Remy, E. (2021). Unsupervised and scalable subsequence anomaly detection in large data series. The VLDB Journal, 1-23.] does. 
+We use the subset of first 100K points from the full datasets of each like Boniol does in the paper[Boniol, P., Linardi, M., Roncallo, F., Palpanas, T., Meftah, M., & Remy, E. (2021). Unsupervised and scalable subsequence anomaly detection in large data series. The VLDB Journal, 1-23.].
 
