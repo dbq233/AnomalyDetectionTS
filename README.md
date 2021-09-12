@@ -21,7 +21,7 @@ The anomalous period 2 is annotated by Keogh's work [https://www.cs.ucr.edu/~eam
 
 
 ### Patient_respiration
-We use the subset of nprs44, beginning at 15500 and ending at 22000. There are one apparent anomaly and one subtle anomaly in this dataset as shown in the picture(cited from https://www.cs.ucr.edu/~eamonn/discords/ICDM05_discords.pdf) 
+We use the subset of nprs44, beginning at 15500 and ending at 22000. There are one apparent anomaly and one subtle anomaly in this dataset as shown in the picture(cited from https://www.cs.ucr.edu/~eamonn/discords/ICDM05_discords.pdf).
 
 ![image](https://user-images.githubusercontent.com/90513919/132955446-d1d83ae5-c456-4897-9b6e-c9cc3122382d.png)
 
