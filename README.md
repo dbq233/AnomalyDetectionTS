@@ -3,4 +3,4 @@ This page provides datasets, codes and detailed experimental settings in paper "
 
 In document "parameter.csv", each time series starts from period 0. 
 
-You can know the experimental settings from the document "Experimental_Settings.pdf".
+You can know the experimental settings from the document "Experimental_Settings.pdf", which is the appendix of the paper.
